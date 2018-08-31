@@ -52,7 +52,7 @@ re<!DOCTYPE html>
 <div class="jumbotron">
     <div class="container">
         <h1>Hello</h1>
-        <p>This is from dev branch. </p>
+        <p>This is from dev branch. Hello from Devops! </p>
         <h2>Released to production</h2>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
