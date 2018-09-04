@@ -51,7 +51,7 @@ re<!DOCTYPE html>
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello Devops! New Build 16</h1>
+        <h1>Hello Devops! New Build 18</h1>
         <p>This is from dev branch. Hello from Devops again!</p>
         <h2>Released to production</h2>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
